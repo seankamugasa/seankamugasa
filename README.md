@@ -6,7 +6,3 @@
      Twitter : @Seanppxy | Email   : seankmaugasa@gmail.com | LinkedIn: SEAN KAMUGASA or www.linkedin.com/in/sean-kamugasa
      
      PORTFOLIO: https://seankamugasa.github.io/
-<!---
-seankamugasa/seankamugasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
