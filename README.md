@@ -3,4 +3,3 @@ I have gone beyond the python fundamentals to developing real web applications i
 data problems in data science. Currently I'm concentrating in data Science with thirst of constant learning. 
 I enjoy using Linux OS from Data science handling to software development. 
 It makes my life easier though I'm flexible with other operating Systems.
-- 📫 PORTFOLIO: https://seankamugasa.github.io/
