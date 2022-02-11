@@ -1,1 +1,1 @@
-"A trustworthy, coperative, realiable and extremly hardworking individual driven by a software Engineering & data mindset to solve business problems with a willingness of constant learning and adaptation to changing environments."
+"A trustworthy, coperative, realiable and extremly hardworking individual driven by a Software Engineering background & Data Driven mindset to solve business problems with a willingness of constant learning and adaptation to changing environments."
