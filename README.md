@@ -1,1 +1,1 @@
-A trustworthy, coperative, realiable and extremly hardworking individual driven by a data mindset to solve organizational or business problems with a willngness of constant learning and adaptation to changing environments.
+Software Engineer & Business Data Analyst
