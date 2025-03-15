@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Sean</h1>
 <h3 align="left">A highly analytical and detail oriented Senior Business Data Analyst with a background in Software Engineering and Artificial Intelligence. Experienced in analyzing extremely complex data sets, developing data models, and creating data visualizations. Skilled in using SQL, Python, Excel, Tableau and Microsoft Power BI to extract insights from data, improve business processes, and support decision-making. Adept at collaborating with stakeholders and presenting findings to non technical audiences.
-- 👨‍💻 All of my projects are available at https://seankamugasa.github.io
+- Online Porfolio https://seankamugasa.github.io
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
