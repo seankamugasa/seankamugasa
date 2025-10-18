@@ -1,5 +1,5 @@
 <h3 align="left">Senior Backend Software Engineer | Senior Business Data Analyst
-<br><br>Online Porfolio https://seankamugasa.github.io
+<br><br>Online Porfolio https://www.seankamz.ink/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
