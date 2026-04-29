@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Sean 👋<br>AI Engineer • Senior Software Engineer • Senior Business Data Analyst • Project Manager<br><br>I design and build production-ready AI systems, scalable backend services, and data-driven analytics that help organizations make smarter decisions. I combine practical engineering with clear business insight to deliver results.
 
-<strong><h1>Below are Samples of my live AI projects</h1></strong> <br>AI Voice Assistant Project: https://pynovavoiceagent-production-8358.up.railway.app/ <br><br>AgroVerse AI Project (Agricultural Intelligence Partner): https://pynovaultrafastaichatbot-production-84aa.up.railway.app/ <br><br>Indepth information about me can be accessed via my Online Porfolio https://www.seankamz.ink 
+<strong><h1>Below are Samples of my live AI projects</h1></strong> <br>AgroVerse AI Project (Agricultural Intelligence Partner): https://pynovaultrafastaichatbot-production-84aa.up.railway.app/ <br><br>AI Voice Assistant Project: https://pynovavoiceagent-production-8358.up.railway.app/ <br> <br><br>Indepth information about me can be accessed via my Online Porfolio https://www.seankamz.ink 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seankamugasa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamugasasean@yahoo.com) 
