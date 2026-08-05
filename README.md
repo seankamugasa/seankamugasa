@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Sean 👋<br>AI Engineer • Senior Software Engineer • Senior Business Data Analyst • Project Manager<br><br>I design and build production-ready AI systems, scalable backend services, and data-driven analytics that help organizations make smarter decisions. I combine practical engineering with clear business insight to deliver results.
 
-<strong><h1>Below are Samples of my live AI projects</h1></strong> <br>AgroVerse AI Project (Agricultural Intelligence Partner) | Powered by RAG 🚀
+<strong><h1>Below are Samples of my live AI projects</h1></strong> <br>AgroVerse AI Project (Agricultural Intelligence Partner).  Powered by RAG 🚀
 | ⚡ GPT-4.1 Mini
 | 🔍 Redis Vector Search
 & 🌐 Tavily : https://pynovaultrafastaichatbot-production-84aa.up.railway.app/ <br><br>AI Voice Assistant Project | Powered by Groq · GPT OSS 120B & Deepgram Aura : https://pynovavoiceagent-production-8358.up.railway.app/ <br> <br><br>Indepth information about me can be accessed via my Online Porfolio https://www.seankamz.ink 
