@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Sean 👋<br>AI Engineer • Senior Software Engineer • Senior Data Analyst • Project Manager<br><br>I design and build production-ready AI systems, scalable backend services, and data-driven analytics that help organizations make smarter decisions. I combine practical engineering with clear business insight to deliver results.
+<br>AI Engineer • Senior Software Engineer • Senior Data Analyst • Project Manager • Building Tech for Human Impact<br><br> A dual-track professional with over 7 years of experience in Data Analytics and Software Engineering with a background in AI Engineering. I bridge the gap between complex technical systems and real-world human needs.<br><br>I design and build production-ready AI systems, scalable backend services and data-driven analytics that help organizations make smarter decisions. I combine practical engineering with clear business insight to deliver results.
 
 <strong><h1>Below are Samples of my live AI projects</h1></strong> <br>AgroVerse AI Project (Agricultural Intelligence Partner).  Powered by RAG 🚀
 | ⚡ GPT-4.1 Mini
