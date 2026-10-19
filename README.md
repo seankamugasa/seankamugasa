@@ -1,6 +1,6 @@
  <div align="center">
 
-# 👋 Hello, I'm Sean
+# 👋 Hello, I'm Sean Kamugasa
 
 ### AI Engineer · Senior Software Engineer · Senior Data Analyst · Project Manager
 
@@ -18,11 +18,11 @@
 
 I'm a technology professional with **7+ years of experience across Data Analytics and Software Engineering**, backed by a background in AI Engineering.
 
-I bridge the gap between complex technical systems and real-world human needs, combining practical engineering expertise with business insight to build solutions that deliver measurable value.
+I bridge the gap between complex technical systems and real-world human needs, combining practical engineering expertise with business insight to build solutions that deliver meaningful value.
 
 My work focuses on:
 
-- 🤖 **Artificial Intelligence:** Building intelligent systems, AI assistants and retrieval-augmented generation (RAG) applications.
+- 🤖 **Artificial Intelligence:** Building intelligent systems, AI assistants, and retrieval-augmented generation (RAG) applications.
 - ⚙️ **Software Engineering:** Designing production-ready applications, scalable backend services, and APIs.
 - 📊 **Data Analytics:** Transforming data into actionable insights that support better decision-making.
 - 🎯 **Project Management:** Connecting technical execution with business goals and practical outcomes.
@@ -44,7 +44,7 @@ An AI-powered agricultural intelligence project designed to make relevant inform
 
 **Explore the project**
 
-[🌐 Live Project - AgroVerse AI](https://www.agroverse.site) · [📖 Read the Case Study](https://www.seankamz.com/work/agroverse-ai)
+[🌐 Live Project — AgroVerse AI](https://www.agroverse.site) · [📖 Read the Case Study](https://www.seankamz.com/work/agroverse-ai)
 
 ---
 
@@ -57,69 +57,26 @@ A voice assistant project combining large language model capabilities with speec
 
 ![Groq](https://img.shields.io/badge/Groq-Inference-F55036?style=flat-square)
 ![GPT OSS 120B](https://img.shields.io/badge/GPT--OSS_120B-412991?style=flat-square&logo=openai&logoColor=white)
-![Deepgram Aura](https://img.shields.io/badge/Deepgram_Aura-13EF93?style=flat-square&logoColor=black)
+![Deepgram Aura](https://img.shields.io/badge/Deepgram_Aura-13EF93?style=flat-square)
 
 **Explore the project**
 
-[🎧 Live Project - PyNova AI](https://pynova.site) · [📖 Read the Case Study](https://www.seankamz.com/work/pynova-voice-assistant)
+[🎧 Live Project — PyNova AI](https://pynova.site) · [📖 Read the Case Study](https://www.seankamz.com/work/pynova-voice-assistant)
 
 ---
 
-## 🛠️ Technology Stack (Not All Tools included)
+## 🛠️ Technology Stack
 
-*A selection of the technologies and tools I work with across software engineering, AI, data and infrastructure.*
+*A selection of the technologies and tools I work with across software engineering, AI, data, and infrastructure.*
 
 ### 💻 Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 🤖 AI, Machine Learning & Data Analytics
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-
-### ⚙️ Backend Development & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### 🗄️ Databases, Cloud Platforms & Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-### 🐳 DevOps, Infrastructure & Development Tools
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-
-### 📈 Business Intelligence & Design
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
----
-
-<div align="left">
-
-*Engineering intelligent solutions. Turning data into insight. Building technology for human impact.*
-
-</div>
+![
