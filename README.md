@@ -1,4 +1,4 @@
- <div align="center">
+ <div align="left">
 
 # 👋 Hello, I'm Sean Kamugasa
 
@@ -22,8 +22,8 @@ I bridge the gap between complex technical systems and real-world human needs, c
 
 My work focuses on:
 
-- 🤖 **Artificial Intelligence:** Building intelligent systems, AI assistants, and retrieval-augmented generation (RAG) applications.
-- ⚙️ **Software Engineering:** Designing production-ready applications, scalable backend services, and APIs.
+- 🤖 **Artificial Intelligence:** Building intelligent systems, AI assistants and retrieval-augmented generation (RAG) applications.
+- ⚙️ **Software Engineering:** Designing production-ready applications, scalable backend services and APIs.
 - 📊 **Data Analytics:** Transforming data into actionable insights that support better decision-making.
 - 🎯 **Project Management:** Connecting technical execution with business goals and practical outcomes.
 
@@ -44,7 +44,7 @@ An AI-powered agricultural intelligence project designed to make relevant inform
 
 **Explore the project**
 
-[🌐 Live Project — AgroVerse AI](https://www.agroverse.site) · [📖 Read the Case Study](https://www.seankamz.com/work/agroverse-ai)
+[🌐 Live Project - AgroVerse AI](https://www.agroverse.site) · [📖 Read the Case Study](https://www.seankamz.com/work/agroverse-ai)
 
 ---
 
@@ -61,13 +61,13 @@ A voice assistant project combining large language model capabilities with speec
 
 **Explore the project**
 
-[🎧 Live Project — PyNova AI](https://pynova.site) · [📖 Read the Case Study](https://www.seankamz.com/work/pynova-voice-assistant)
+[🎧 Live Project - PyNova AI](https://pynova.site) · [📖 Read the Case Study](https://www.seankamz.com/work/pynova-voice-assistant)
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Sample Technology Stack
 
-*A selection of the technologies and tools I work with across software engineering, AI, data, and infrastructure.*
+*A selection of the technologies and tools I work with across software engineering, AI, data and infrastructure.*
 
 ### 💻 Programming Languages
 
@@ -128,24 +128,8 @@ A voice assistant project combining large language model capabilities with speec
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
 
-## 🌐 Connect With Me
-
-Interested in AI engineering, software development, data-driven solutions, or meaningful technology projects? Let's connect.
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-Visit_Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.seankamz.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sean_Kamugasa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seankamugasa)
-[![Email](https://img.shields.io/badge/Email-Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamugasasean@yahoo.com)
-
-</div>
-
----
-
-<div align="center">
+<div align="left">
 
 *Engineering intelligent solutions. Turning data into insight. Building technology for human impact.*
 
