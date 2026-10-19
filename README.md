@@ -1,10 +1,10 @@
 # 💫 About Me:
 <br>AI Engineer • Senior Software Engineer • Senior Data Analyst • Project Manager • Building Tech for Human Impact<br><br> A dual-track professional with more than 7 years of experience in Data Analytics and Software Engineering with a background in AI Engineering. I bridge the gap between complex technical systems and real-world human needs.<br><br>I design and build production-ready AI systems, scalable backend services and data-driven analytics that help organizations make smarter decisions. I combine practical engineering with clear business insight to deliver results.
 
-<strong><h1>Below are Samples of my live AI projects</h1></strong> <br>AgroVerse AI Project (Agricultural Intelligence Partner).  Powered by RAG 🚀
+<strong><h1>Live AI projects Samples</h1></strong><br>AgroVerse AI Project (Agricultural Intelligence Partner). <br><br>Powered by RAG 🚀
 | ⚡ GPT-4.1 Mini
 | 🔍 Redis Vector Search
-& 🌐 Tavily : https://www.agroverse.site <br><br>AI Voice Assistant Project | Powered by Groq · GPT OSS 120B & Deepgram Aura : https://pynova.site/ <br> <br><br>Indepth information about me can be accessed via my Online Porfolio https://www.seankamz.com 
+& 🌐 Tavily : https://www.agroverse.site | Agrover AI Case Study: https://www.seankamz.com/work/agroverse-ai <br><br>AI Voice Assistant Project | Powered by Groq · GPT OSS 120B & Deepgram Aura : https://pynova.site/ <br><br><br>Indepth information about me can be accessed via my Online Porfolio https://www.seankamz.com 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seankamugasa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamugasasean@yahoo.com) 
