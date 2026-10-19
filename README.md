@@ -1,6 +1,6 @@
  <div align="center">
 
-# 👋 Hello, I'm Sean Kamugasa
+# 👋 Hello, I'm Sean
 
 ### AI Engineer · Senior Software Engineer · Senior Data Analyst · Project Manager
 
