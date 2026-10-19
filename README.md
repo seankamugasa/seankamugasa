@@ -4,7 +4,7 @@
 <strong><h1>Below are Samples of my live AI projects</h1></strong> <br>AgroVerse AI Project (Agricultural Intelligence Partner).  Powered by RAG 🚀
 | ⚡ GPT-4.1 Mini
 | 🔍 Redis Vector Search
-& 🌐 Tavily : https://www.agroverse.site <br><br>AI Voice Assistant Project | Powered by Groq · GPT OSS 120B & Deepgram Aura : https://pynovavoiceagent-production-8358.up.railway.app/ <br> <br><br>Indepth information about me can be accessed via my Online Porfolio https://www.seankamz.com 
+& 🌐 Tavily : https://www.agroverse.site <br><br>AI Voice Assistant Project | Powered by Groq · GPT OSS 120B & Deepgram Aura : https://pynova.site/ <br> <br><br>Indepth information about me can be accessed via my Online Porfolio https://www.seankamz.com 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seankamugasa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamugasasean@yahoo.com) 
