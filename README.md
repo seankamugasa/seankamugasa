@@ -65,7 +65,7 @@ A voice assistant project combining large language model capabilities with speec
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Stack (Not All Tools included)
 
 *A selection of the technologies and tools I work with across software engineering, AI, data and infrastructure.*
 
