@@ -1,15 +1,140 @@
-# 💫 About Me:
-<br>AI Engineer • Senior Software Engineer • Senior Data Analyst • Project Manager • Building Tech for Human Impact<br><br> A dual-track professional with more than 7 years of experience in Data Analytics and Software Engineering with a background in AI Engineering. I bridge the gap between complex technical systems and real-world human needs.<br><br>I design and build production-ready AI systems, scalable backend services and data-driven analytics that help organizations make smarter decisions. I combine practical engineering with clear business insight to deliver results.
+ <div align="center">
 
-<strong><h1>Live AI projects Samples</h1></strong><br>AgroVerse AI Project (Agricultural Intelligence Partner).<br>Powered by RAG 🚀
-| ⚡ GPT-4.1 Mini
-| 🔍 Redis Vector Search
-& 🌐 Tavily : https://www.agroverse.site <br> Agroverse AI Case Study: https://www.seankamz.com/work/agroverse-ai 
+# 👋 Hello, I'm Sean Kamugasa
 
-<br><br>AI Voice Assistant Project | Powered by Groq · GPT OSS 120B & Deepgram Aura : https://pynova.site <br>PyNova AI Case Study: https://www.seankamz.com/work/pynova-voice-assistant <br><br><br>Indepth information about me can be accessed via my Online Porfolio https://www.seankamz.com 
+### AI Engineer · Senior Software Engineer · Senior Data Analyst · Project Manager
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seankamugasa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamugasasean@yahoo.com) 
+**Building intelligent technology that solves real-world problems.**
 
-# 💻 Tech Stack (Not all Tech Tools have been included):
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+[![Portfolio](https://img.shields.io/badge/Portfolio-seankamz.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.seankamz.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seankamugasa)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamugasasean@yahoo.com)
+
+</div>
+
+---
+
+## 💫 About Me
+
+I'm a technology professional with **7+ years of experience across Data Analytics and Software Engineering**, backed by a background in AI Engineering.
+
+I bridge the gap between complex technical systems and real-world human needs, combining practical engineering expertise with business insight to build solutions that deliver measurable value.
+
+My work focuses on:
+
+- 🤖 **Artificial Intelligence:** Building intelligent systems, AI assistants, and retrieval-augmented generation (RAG) applications.
+- ⚙️ **Software Engineering:** Designing production-ready applications, scalable backend services, and APIs.
+- 📊 **Data Analytics:** Transforming data into actionable insights that support better decision-making.
+- 🎯 **Project Management:** Connecting technical execution with business goals and practical outcomes.
+
+My guiding principle is simple: **build technology that makes a meaningful difference.**
+
+## 🚀 Featured AI Projects
+
+### 🌱 AgroVerse AI
+**Your Agricultural Intelligence Partner**
+
+An AI-powered agricultural intelligence project designed to make relevant information more accessible through retrieval-augmented generation (RAG).
+
+**Technology highlights**
+
+![GPT-4.1 Mini](https://img.shields.io/badge/GPT--4.1_Mini-412991?style=flat-square&logo=openai&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_Vector_Search-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily-Web_Search-2563EB?style=flat-square)
+
+**Explore the project**
+
+[🌐 Live Project — AgroVerse AI](https://www.agroverse.site) · [📖 Read the Case Study](https://www.seankamz.com/work/agroverse-ai)
+
+---
+
+### 🎙️ PyNova AI Voice Assistant
+**An AI-powered conversational voice experience**
+
+A voice assistant project combining large language model capabilities with speech technology to support conversational interactions.
+
+**Technology highlights**
+
+![Groq](https://img.shields.io/badge/Groq-Inference-F55036?style=flat-square)
+![GPT OSS 120B](https://img.shields.io/badge/GPT--OSS_120B-412991?style=flat-square&logo=openai&logoColor=white)
+![Deepgram Aura](https://img.shields.io/badge/Deepgram_Aura-13EF93?style=flat-square&logoColor=black)
+
+**Explore the project**
+
+[🎧 Live Project — PyNova AI](https://pynova.site) · [📖 Read the Case Study](https://www.seankamz.com/work/pynova-voice-assistant)
+
+---
+
+## 🛠️ Technology Stack
+
+*A selection of the technologies and tools I work with across software engineering, AI, data, and infrastructure.*
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🤖 AI, Machine Learning & Data Analytics
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+
+### ⚙️ Backend Development & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### 🗄️ Databases, Cloud Platforms & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### 🐳 DevOps, Infrastructure & Development Tools
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+
+### 📈 Business Intelligence & Design
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+## 🌐 Connect With Me
+
+Interested in AI engineering, software development, data-driven solutions, or meaningful technology projects? Let's connect.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-Visit_Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.seankamz.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sean_Kamugasa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seankamugasa)
+[![Email](https://img.shields.io/badge/Email-Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamugasasean@yahoo.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*Engineering intelligent solutions. Turning data into insight. Building technology for human impact.*
+
+</div>
