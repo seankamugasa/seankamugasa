@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-Technology professional with **7+ years of experience** across data analytics and software engineering, with a background in AI engineering and project management.
+Technology professional with **7+ years of experience** across data analytics and software engineering with a background in AI engineering and project management.
 
 I build AI-powered applications, scalable backend systems, data-driven solutions and tools that connect technology with real-world needs.
 
