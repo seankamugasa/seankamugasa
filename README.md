@@ -1,6 +1,6 @@
  <div align="left">
 
-# 👋 Hi, I'm Sean Kamugasa
+# 👋 Hi, I'm Sean
 
 ### AI Engineer · Senior Software Engineer · Senior Data Analyst · Project Manager
 
@@ -18,7 +18,7 @@
 
 Technology professional with **7+ years of experience** across data analytics and software engineering, with a background in AI engineering and project management.
 
-I build AI-powered applications, scalable backend systems, data-driven solutions, and tools that connect technology with real-world needs.
+I build AI-powered applications, scalable backend systems, data-driven solutions and tools that connect technology with real-world needs.
 
 - 🤖 **AI Engineering:** LLMs, AI assistants, RAG and intelligent applications
 - ⚙️ **Software Engineering:** Backend systems, APIs and full-stack development
@@ -27,7 +27,7 @@ I build AI-powered applications, scalable backend systems, data-driven solutions
 
 ## 🌟 Featured Projects
 
-### 🌱 [AgroVerse AI](https://www.agroverse.site) — Agricultural Intelligence
+### 🌱 [AgroVerse AI](https://www.agroverse.site) - Agricultural Intelligence
 
 AI-powered agricultural assistant combining institutional knowledge, RAG and real-time web search to deliver grounded agricultural insights.
 
@@ -35,7 +35,7 @@ AI-powered agricultural assistant combining institutional knowledge, RAG and rea
 
 [Live Demo](https://www.agroverse.site) · [Case Study](https://www.seankamz.com/work/agroverse-ai)
 
-### 🎙️ [PyNova AI Voice Assistant](https://pynova.site) — Conversational AI
+### 🎙️ [PyNova AI Voice Assistant](https://pynova.site) - Conversational AI
 
 An AI-powered voice assistant combining LLM inference and speech technology for natural, interactive voice experiences.
 
